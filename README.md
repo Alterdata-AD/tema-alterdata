@@ -1,1 +1,1 @@
-# tema-alterdata
+# tema-alterdataInstall the theme as a NPM package:`npm install git+https://github.com/Alterdata-AD/tema-alterdata.git`

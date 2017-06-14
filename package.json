@@ -1,0 +1,15 @@
+{
+  "name": "tema-alterdata",
+  "version": "1.0.0",
+  "description": "Alterdata CSS theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alterdata-AD/tema-alterdata.git"
+  },
+  "author": "Alterdata Software",
+  "bugs": {
+    "url": "https://github.com/Alterdata-AD/tema-alterdata/issues"
+  },
+  "homepage": "https://github.com/Alterdata-AD/tema-alterdata#readme"
+}
