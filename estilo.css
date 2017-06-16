@@ -688,3 +688,25 @@ hr {
 .uk-dropdown-navbar{
   border-radius: 0px 3px 3px; left: 0px;
 }
+
+ .tm-footer {
+	margin-top: 25px;
+	margin-bottom: 25px;
+    text-align:center;
+}
+
+.tm-totop-scroller {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1000;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	color: #444;
+	text-align: center;
+	-webkit-transition: all linear .05s;
+	transition: all linear .05s;
+}
