@@ -695,6 +695,16 @@ hr {
     text-align:center;
 }
 
+.uk-button-secondary{
+background: #67666a;
+    border: 1px solid;
+    border-color: #67666a;
+    color: #fff;
+    box-shadow: none;
+    border-radius: 0;
+    font-weight: 400;
+}
+
 .tm-totop-scroller {
 	display: block;
 	position: absolute;
