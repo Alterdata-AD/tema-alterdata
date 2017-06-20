@@ -745,3 +745,6 @@ background: #67666a;
     content: "\f077";
     font-family: "FontAwesome";
 }
+.tm-totop-scroller:hover {
+	text-decoration: none !important;
+}
