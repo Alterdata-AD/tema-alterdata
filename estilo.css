@@ -582,6 +582,9 @@ hr {
 .noticias h3 {
     font-size: 18px;
 }
+.uk-modal-dialog {
+    border-radius: 4px;
+}
 .uk-modal-close {
     font-size: 28px;
     z-index: 9;
