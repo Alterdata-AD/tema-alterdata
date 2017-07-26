@@ -565,6 +565,12 @@ hr {
 .uk-nav-side li a {
     padding-bottom: 7px;
 }
+.uk-dropdown {
+    background-color: #fff;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.1);
+}
 .uk-dropdown-search {
     padding: 10px 32px;
     background: #f5f5f5;
