@@ -125,9 +125,18 @@ b{
     font-weight: 400;
 }
 
-.uk-button:hover,
-.uk-button:active,
-.uk-button:focus {
+.uk-button:disabled {
+    background-color: #fafafa;
+    color: #999;
+    border-color: rgba(0,0,0,.2);
+    background-image: none;
+    box-shadow: none;
+    text-shadow: 0 1px 0 #fff;
+}
+
+.uk-button:hover:not([disabled]),
+.uk-button:active:not([disabled]),
+.uk-button:focus:not([disabled]) {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.20), 0 10px 10px rgba(0, 0, 0, 0.17);
     background: rgba(0,0,0,0);
 }
